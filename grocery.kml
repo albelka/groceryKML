@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns:atom="http://www.w3.org/2005/Atom" xmlns="http://www.opengis.net/kml/2.2"> <NetworkLink>
+<open>1</open>
+<name>Generate KML</name>
+<LookAt>
+<longitude>-122.75356838474056</longitude>
+<latitude>45.46837666965163</latitude>
+<range>31937.163881210963</range>
+</LookAt>
+<Link>
+<viewRefreshMode>onStop</viewRefreshMode>
+<viewRefreshTime>2</viewRefreshTime>
+<href>https://www.portlandmaps.com/arcgis/services/Public/COP_OpenData/MapServer/KmlServer?Composite=true&amp;LayerIDs=40</href>
+<viewFormat>BBOX=[bboxWest],[bboxSouth],[bboxEast],[bboxNorth];CAMERA=[lookatLon],[lookatLat],[lookatRange],[lookatTilt],[lookatHeading];VIEW=[horizFov],[vertFov],[horizPixels],[vertPixels],[terrainEnabled]</viewFormat>
+</Link>
+</NetworkLink>
+</kml>
